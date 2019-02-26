@@ -1,0 +1,17 @@
+{
+    "resultcode":"103000",
+    "bizCode":{
+       "M001": {
+        "switchUrl": "https://www.local.cmpassport.com:8443",
+        "enable": "0",
+        "flag":"0"
+     },
+      "M002": {
+        "switchUrl": "https://www.local.cmpassport.com:8443",
+        "enable": "0",
+        "flag":"0"
+     }
+},
+    "desc": "success",
+    "expireTime": "20170520122112554"
+}
