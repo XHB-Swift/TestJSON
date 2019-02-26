@@ -1,5 +1,5 @@
 {
-    "resultcode":"103000",
+    "resultCode":"103000",
     "bizCode":{
        "M003": {
         "switchUrl": "https://www.baidu.com/",
